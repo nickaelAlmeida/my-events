@@ -28,16 +28,18 @@ npm install
 To run the application, follow these steps:
 
 1. Start the app with Expo:
-expo start
+  ```
+  npx expo start
+  ```
 
 2. Open the Expo Go app on your mobile device or use an emulator:
 - For Android emulator:
   ```
-  expo start --android
+  npm run android
   ```
 - For iOS emulator:
   ```
-  expo start --ios
+  npm run ios
   ```
 
 ## Features
