@@ -15,10 +15,10 @@ Before you begin, make sure you have the following prerequisites installed:
 Follow these steps to set up the project:
 
 1. Clone this repository:
-git clone https://github.com/your-user/your-project.git
+git clone https://github.com/nickaelAlmeida/my-events.git
 
 2. Navigate to the project directory:
-cd your-project
+cd my-events
 
 3. Install the project dependencies:
 npm install
