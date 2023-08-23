@@ -32,7 +32,7 @@ To run the application, follow these steps:
   npx expo start
   ```
 
-2. Open the Expo Go app on your mobile device or use an emulator:
+2. Start the app without Expo:
 - For Android emulator:
   ```
   npm run android
