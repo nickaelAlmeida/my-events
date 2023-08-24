@@ -1,12 +1,12 @@
 import { Text, TouchableOpacity, View } from 'react-native';
 import { styles } from './styles';
 
-interface ParticipantProps {
+interface IParticipantProps {
   name: string;
   onPress: () => void;
 }
 
-export function Participant ({ name, onPress }: ParticipantProps) {
+export function Participant ({ name, onPress }: IParticipantProps) {
   return (
     <View style={styles.container}>
       <View style={styles.participant}>

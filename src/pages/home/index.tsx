@@ -41,7 +41,7 @@ export function Home () {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>My Event</Text>
-      <Text style={styles.subTitle}>{format(new Date(), "eeee, d 'de' MMMM 'de' yyyy")}</Text>
+      <Text style={styles.subTitle}>{format(new Date(), 'eeee, d \'de\' MMMM \'de\' yyyy')}</Text>
 
       <View style={styles.form}>
         <TextInput
